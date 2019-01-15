@@ -1,0 +1,3 @@
+[submodule "pyflann"]
+	path = pyflann
+	url = https://github.com/primetang/pyflann
