@@ -1,5 +1,5 @@
 #datasets
-mnist.hdf5
+*.hdf5
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

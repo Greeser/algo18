@@ -1,5 +1,16 @@
 import h5py
 
+def get_dataset(fn):
+    """
+    fn: path-to-file
+    """
+    try:
+        f = h5py.File(fn, 'r')
+        train, test, neighbor = f['train'], f['test'], f['neighbors']
+        return train, test, neighbor
+    except:
+        print("Dataset not found. Location:" + fn)
+
 def get_mnist(fn):
     """
     fn: path-to-file
