@@ -2,8 +2,9 @@
 
 # Datasets
 
-[SIFT dataset](https://corpus-texmex.irisa.fr/)
-[MNIST dataset](http://yann.lecun.com/exdb/mnist/)
+[SIFT dataset](http://ann-benchmarks.com/mnist-784-euclidean.hdf5)
+
+[MNIST dataset](http://ann-benchmarks.com/sift-128-euclidean.hdf5)
 
 # Setup FLANN
 
