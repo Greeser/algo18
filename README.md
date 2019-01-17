@@ -2,9 +2,9 @@
 
 # Datasets
 
-[SIFT dataset](http://ann-benchmarks.com/mnist-784-euclidean.hdf5)
+[MNIST dataset](http://ann-benchmarks.com/mnist-784-euclidean.hdf5)
 
-[MNIST dataset](http://ann-benchmarks.com/sift-128-euclidean.hdf5)
+[SIFT dataset](http://ann-benchmarks.com/sift-128-euclidean.hdf5)
 
 # Setup FLANN
 
