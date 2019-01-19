@@ -1,5 +1,8 @@
 # Project ANN
 
+Implementation of Locality-sensitive hashing. 
+Comparsion with FLANN.
+
 # Datasets
 
 [MNIST dataset](http://ann-benchmarks.com/mnist-784-euclidean.hdf5)
